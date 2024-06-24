@@ -1,5 +1,3 @@
-from typing import List
-
 from ortools.sat.python import cp_model
 
 
